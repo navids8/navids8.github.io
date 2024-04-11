@@ -2,8 +2,9 @@ Hello and welcome to my blog. I have created this blog as part of an assignment 
 
 I will be sharing my learning with you through a range of posts...
 
-![Image of fast.ai logo](images/logo.png)
+![Image of ELEC4630](images/ELEC4630.jpeg)
 
 ## ELEC4630
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<font color="red"> Course description </font>
+Image sensors, colour models, discrete cosine transform, image & video compression. Computer vision, morphological techniques, watershed transform, skeletonisation, image segmentation, active contours.
