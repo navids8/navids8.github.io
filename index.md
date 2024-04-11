@@ -6,6 +6,6 @@ I will be sharing my learning with you through a range of posts...
 
 ## ELEC4630
 
-<ins>Course description<\ins>
+<ins>Course description</ins>
 
 Image sensors, colour models, discrete cosine transform, image & video compression. Computer vision, morphological techniques, watershed transform, skeletonisation, image segmentation, active contours.
