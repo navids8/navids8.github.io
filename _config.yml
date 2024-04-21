@@ -7,7 +7,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: Hello and welcome to my blog. I have created this blog as part of an assignment for [ELEC4630: Computer Vision and Deep Learning](https://my.uq.edu.au/programs-courses/course.html?course_code=ELEC4630). 
+I will be sharing my learning with you through a range of posts...
 github_username: jph00
 
 # Email and twitter are optional:
